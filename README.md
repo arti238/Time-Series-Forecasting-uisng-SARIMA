@@ -1,3 +1,5 @@
+Experiments are performed over landslide dataset.Datasets include features such as temperature, moisture, pressure, humidity,  acceleration, rainfall.
+
 # Time-Series-Forecasting-uisng-SARIMA
 An extension to ARIMA that supports the direct modelling of the seasonal component of the series is called Seasonal Autoregressive Integrated Moving Average, or SARIMA. This method is used for time series forecasting with univariate data containing trends and seasonality.
 
